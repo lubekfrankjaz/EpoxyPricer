@@ -1,0 +1,11 @@
+// TODO
+- Download, install, test GitBash (https://git-scm.com/download/win)
+- Generate ssh keys. Seeing as RSA is being deprecated, use edcsa instead ("ssh-keygen -t ecdsa -b 521" via CMD)
+- Register ssh keys with GitHub (https://github.com/settings/keys)
+- New folder on desktop, rename with project name, open gitbash and type "git init"
+- Upload repo to GitHub by typing:
+	"git status" - to verify
+	"git add ." stage files
+	"git commit -m [insert comment here]"
+	"git push origin master"		
+
