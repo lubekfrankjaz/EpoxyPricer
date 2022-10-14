@@ -2,10 +2,14 @@
 - Download, install, test GitBash (https://git-scm.com/download/win)
 - Generate ssh keys. Seeing as RSA is being deprecated, use edcsa instead ("ssh-keygen -t ecdsa -b 521" via CMD)
 - Register ssh keys with GitHub (https://github.com/settings/keys)
+- Tell git who you are:
+	 git config --global user.email "lubekfrankjaz@gmail.com"
+	 git config --global user.name "Frank"
 - New folder on desktop, rename with project name, open gitbash and type "git init"
 - Upload repo to GitHub by typing:
 	"git status" - to verify
 	"git add ." stage files
 	"git commit -m [insert comment here]"
-	"git push origin master"		
-
+	"git remote add origin https://github.com/lubekfrankjaz/EpoxyPricer.git"
+	"git branch -M main"
+	"git push -u origin main"
