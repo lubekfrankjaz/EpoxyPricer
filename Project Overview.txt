@@ -82,5 +82,12 @@ Product {
 - Compile Java source code to .jar (Java Archive File) to implement standalone functionality
 
 
+///////////
+// Links //
+///////////
+
+
+https://serengetitech.com/tech/introduction-to-git-and-types-of-version-control-systems/
+
 
 
