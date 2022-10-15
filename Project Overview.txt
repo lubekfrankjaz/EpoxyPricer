@@ -40,14 +40,17 @@ Like when I ran "rm -rf *.*" in wrong directory and over 100 hrs of work was gon
 // Purpose //
 /////////////
 
+
 I need a basic price calculator for the epoxy products created under the partnership agreement between Lubek Enterprises (LE) and James Baran.
 The manufacturing process uses various resources that must be taken into account when determining prices of the final products.
 As pricing the final products appropriately directly effects profits and more importantly, profit margins, consistency and accuracy are detrimental.
 This project is being carried out to elimainate manual calculations that could potentially be effected by human error.
 
+
 ///////////////
 // Resources //
 ///////////////
+
 
 The resources involved are: 2-part epoxy mixture, basic color effects (liquid), glow in the dark solution and advanced effects (powders). [I will add to this as I go]
 - The 2-part epoxy mixture is necessary as it's the base of each item. Without it there is no product.
@@ -56,6 +59,19 @@ The resources involved are: 2-part epoxy mixture, basic color effects (liquid), 
 - The advanced effects are typically powders that are mixed with the base to create visually appealing effects. Gold sparkles, blue streaks, etc.
 
 
+////////////////////
+// Objects Needed //
+////////////////////
+
+
+Product {
+- Size (enum) - [Tiny, Small, Medium, Large, Huge]   // Factors into amount of epoxy base solution needed, general (batch quantities)
+- Weight - How much item weighs overall   // Factors into amount of epoxy base solution needed, accurate (individual)
+- Basic Effect Level (enum) - [Hardly Any [1], Little [2], Medium [3], Lot [4], Tons [5]]
+- Advanced Effect Level (enum) - [Hardly Any [1], Little [2], Medium [3], Lot [4], Tons [5]]
+- Glow Level (enum) - [Little [1], Medium [2], Lot [3]]
+- Extras (Map (Object, Price)) - Static cost add-on determined using component as a key and price as a value
+}
 
 
 
