@@ -74,6 +74,12 @@ Product {
 }
 
 
+////////////////
+// Standalone //
+////////////////
+
+
+- Compile Java source code to .jar (Java Archive File) to implement standalone functionality
 
 
 
