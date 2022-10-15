@@ -35,6 +35,14 @@ Like when I ran "rm -rf *.*" in wrong directory and over 100 hrs of work was gon
 
 
 
+// Purpose
+
+I need a basic price calculator for the epoxy products created under the partnership agreement between Lubek Enterprises (LE) and James Baran.
+The manufacturing process uses various resources that must be taken into account when determining prices of the final products.
+As pricing the final products appropriately directly effects profits and profit margins, consistency and accuracy are detrimental.
+
+
+
 
 
 
