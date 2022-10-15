@@ -28,10 +28,10 @@
 	"git push origin main"  - save your progress
 	
 // Note: Every push is registered and you can make directory look exactly like it did when you typed push command
-Remember how back in the day with PS1 you'd save every 5 mins so you save progress, like save the game state in case things went south so you do't start from beginning?
+Remember how back in the day with PS1 you'd save every 5 mins so you save progress, like save the game state in case things went south so you don't start from beginning?
 This is same concept, you can change your files to look how they did whenever you pushed, so SAVE AFTER EVEN THE MOST MINOR CHANGES
 If you don't, trust me, truuuuust me, you WILL regret not doing so at some point.
-Like when I ran "rm -rf *.*" in wrong directory and over 100 hrs of work was gone in minutes, I was only able to recover because I saved after every change
+Like when I ran "rm -rf *.*" in wrong directory and over 100 hrs of work was gone in minutes, I was only able to recover because I saved after every change.
 
 
 
@@ -39,7 +39,17 @@ Like when I ran "rm -rf *.*" in wrong directory and over 100 hrs of work was gon
 
 I need a basic price calculator for the epoxy products created under the partnership agreement between Lubek Enterprises (LE) and James Baran.
 The manufacturing process uses various resources that must be taken into account when determining prices of the final products.
-As pricing the final products appropriately directly effects profits and profit margins, consistency and accuracy are detrimental.
+As pricing the final products appropriately directly effects profits and more importantly, profit margins, consistency and accuracy are detrimental.
+This project is being carried out to elimainate manual calculations that could potentially be effected by human error.
+
+
+// Resources
+The resources involved are: 2-part epoxy mixture, basic color effects (liquid), glow in the dark solution and advanced effects (powders). [I will add to this as I go]
+- The 2-part epoxy mixture is necessary as it's the base of each item. Without it there is no product.
+- The basic color effects are liquids that are mixed in with the base in different ways, but primarily act as the main overall color for each product.
+- The glow-in-the-dark solution is added to store and emit photons allowing the product to be seen in low-light environments.
+- The advanced effects are typically powders that are mixed with the base to create visually appealing effects. Gold sparkles, blue streaks, etc.
+
 
 
 
