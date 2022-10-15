@@ -18,7 +18,7 @@
 	"git commit -m [insert comment here]" - Tell git to add your staged files to memory
 	"git remote add origin https://github.com/lubekfrankjaz/EpoxyPricer.git" - only ran once, tell git where you want your changes to go
 	"git branch -M main" - sets branch, can fork path later
-	"git push -u origin main" - push changes to my GitHub repo [aka save my changes]
+	"git push -u origin main" - push changes to my GitHub repo [aka save my changes]   // Note "master" is now "main" as somehow that's offensive and racist..... smh.
 	
 	At this point your GitBash can, is, has and will communicate with that GitHub repo via opening GitBash in current directory
 
