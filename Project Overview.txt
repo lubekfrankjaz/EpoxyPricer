@@ -1,4 +1,6 @@
-// 1. Setup Version Control (GitHub and GitBash)
+///////////////////////////////////////////////////
+// 1. Setup Version Control (GitHub and GitBash) //
+///////////////////////////////////////////////////
 
 	********************************************************************************************************************
 	** If you want to get max knowledge and benefits you have to type these out, no copy/paste, trust me its worth it **
@@ -34,16 +36,19 @@ If you don't, trust me, truuuuust me, you WILL regret not doing so at some point
 Like when I ran "rm -rf *.*" in wrong directory and over 100 hrs of work was gone in minutes, I was only able to recover because I saved after every change.
 
 
-
-// Purpose
+/////////////
+// Purpose //
+/////////////
 
 I need a basic price calculator for the epoxy products created under the partnership agreement between Lubek Enterprises (LE) and James Baran.
 The manufacturing process uses various resources that must be taken into account when determining prices of the final products.
 As pricing the final products appropriately directly effects profits and more importantly, profit margins, consistency and accuracy are detrimental.
 This project is being carried out to elimainate manual calculations that could potentially be effected by human error.
 
+///////////////
+// Resources //
+///////////////
 
-// Resources
 The resources involved are: 2-part epoxy mixture, basic color effects (liquid), glow in the dark solution and advanced effects (powders). [I will add to this as I go]
 - The 2-part epoxy mixture is necessary as it's the base of each item. Without it there is no product.
 - The basic color effects are liquids that are mixed in with the base in different ways, but primarily act as the main overall color for each product.
